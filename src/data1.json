@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "TargetID": 1,
+      "targetId": 1,
       "title": "No Poverty",
       "totalTarget": 5,
       "categories": [
@@ -11,7 +11,8 @@
           "DDID": 1,
           "digitalDevelopment": "social Inclusion",
           "SDG": 1,
-          "aligned": "fullyaligned"
+          "aligned": "fullyaligned",
+          "aligendID":1
         },
         {
           "target": 1.1,
@@ -200,7 +201,7 @@
       ]
     },
     {
-      "TargetID": 2,
+      "targetId": 2,
       "title": "No Poverty",
       "totalTarget": 5,
       "categories": [
@@ -210,7 +211,8 @@
           "DDID": 1,
           "digitalDevelopment": "social Inclusion",
           "SDG": 1,
-          "aligned": "fullyaligned"
+          "aligned": "fullyaligned",
+          "aligendID":1
         },
         {
           "target": 1.1,
