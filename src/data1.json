@@ -1,0 +1,402 @@
+{
+  "data": [
+    {
+      "TargetID": 1,
+      "title": "No Poverty",
+      "totalTarget": 5,
+      "categories": [
+        {
+          "title": "No Poverty",
+          "target": 1.1,
+          "DDID": 1,
+          "digitalDevelopment": "social Inclusion",
+          "SDG": 1,
+          "aligned": "fullyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 2,
+          "digitalDevelopment": "Education",
+          "SDG": 1,
+          "aligned": "partiallyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 3,
+          "digitalDevelopment": "Economy",
+          "SDG": 1,
+          "aligned": "partiallyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 4,
+          "digitalDevelopment": "Tourism",
+          "SDG": 1,
+          "aligned": "partiallyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 5,
+          "digitalDevelopment": "Women and Children",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 6,
+          "digitalDevelopment": "Job Creation",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 7,
+          "digitalDevelopment": "Information & Communication Technology",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 8,
+          "digitalDevelopment": "Public Utilities",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 9,
+          "digitalDevelopment": "Public Infrastructure",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 10,
+          "digitalDevelopment": "Airport and Seaport",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 11,
+          "digitalDevelopment": "Manufacturing",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 12,
+          "digitalDevelopment": "Housing",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 13,
+          "digitalDevelopment": "Agriculture",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 14,
+          "digitalDevelopment": "Public Health",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 15,
+          "digitalDevelopment": "Environment",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 16,
+          "digitalDevelopment": "Youth and Sports",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 17,
+          "digitalDevelopment": "Democracy",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 18,
+          "digitalDevelopment": "Diplomacy",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 19,
+          "digitalDevelopment": "Rodrigues and Other Outer Islands",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 20,
+          "digitalDevelopment": "Ocean Economy",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 21,
+          "digitalDevelopment": "Security, Law and Order",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 22,
+          "digitalDevelopment": "Civil Service",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 23,
+          "digitalDevelopment": "Art and Culture",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 24,
+          "digitalDevelopment": "Financial Services",
+          "SDG": 1,
+          "aligned": "notaligned"
+        }
+      ]
+    },
+    {
+      "TargetID": 2,
+      "title": "No Poverty",
+      "totalTarget": 5,
+      "categories": [
+        {
+          "title": "No Poverty",
+          "target": 1.1,
+          "DDID": 1,
+          "digitalDevelopment": "social Inclusion",
+          "SDG": 1,
+          "aligned": "fullyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 2,
+          "digitalDevelopment": "Education",
+          "SDG": 1,
+          "aligned": "partiallyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 3,
+          "digitalDevelopment": "Economy",
+          "SDG": 1,
+          "aligned": "partiallyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 4,
+          "digitalDevelopment": "Tourism",
+          "SDG": 1,
+          "aligned": "partiallyaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 5,
+          "digitalDevelopment": "Women and Children",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 6,
+          "digitalDevelopment": "Job Creation",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 7,
+          "digitalDevelopment": "Information & Communication Technology",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 8,
+          "digitalDevelopment": "Public Utilities",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 9,
+          "digitalDevelopment": "Public Infrastructure",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 10,
+          "digitalDevelopment": "Airport and Seaport",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 11,
+          "digitalDevelopment": "Manufacturing",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 12,
+          "digitalDevelopment": "Housing",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 13,
+          "digitalDevelopment": "Agriculture",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 14,
+          "digitalDevelopment": "Public Health",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 15,
+          "digitalDevelopment": "Environment",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 16,
+          "digitalDevelopment": "Youth and Sports",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 17,
+          "digitalDevelopment": "Democracy",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 18,
+          "digitalDevelopment": "Diplomacy",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 19,
+          "digitalDevelopment": "Rodrigues and Other Outer Islands",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 20,
+          "digitalDevelopment": "Ocean Economy",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 21,
+          "digitalDevelopment": "Security, Law and Order",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 22,
+          "digitalDevelopment": "Civil Service",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 23,
+          "digitalDevelopment": "Art and Culture",
+          "SDG": 1,
+          "aligned": "notaligned"
+        },
+        {
+          "target": 1.1,
+          "title": "No Poverty",
+          "DDID": 24,
+          "digitalDevelopment": "Financial Services",
+          "SDG": 1,
+          "aligned": "notaligned"
+        }
+      ]
+    }
+  ]
+}
