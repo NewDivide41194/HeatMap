@@ -18,10 +18,10 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/he
             console.log(this.state.group);
 
             // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
-            var myGroups = Object.keys(data.group);// data ? d3.map(data,  d=> { return d.group; }).keys() : ["A"]
-            // var myVars = data ? d3.map( d=> { return d.variable; }).keys() : ["v1"]
-            var myGroups = ["A", "B", "C"]
-            var myVars = ["v1", "v2", "v3"]
+            var myGroups = data ? d3.extent(data,  d=> { return d.group; }).keys() : ["A"]
+            var myVars = data ? d3.extent( data,d=> { return d.variable; }).keys() : ["v1"]
+            // var myGroups = ["A", "B", "C"]
+            // var myVars = ["v1", "v2", "v3"]
 
             // Build X scales and axis:
             var x = d3.scaleBand()
